@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anaitmessaoud.github.io/rafik-al-mouslim-privacy/sitemap.xml

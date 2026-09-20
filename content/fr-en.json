@@ -1,0 +1,206 @@
+{
+  "fr": {
+    "name": "Rafik Al Mouslim",
+    "label": "Français",
+    "title": "Politique de confidentialité",
+    "updated": "Mise à jour : 20 septembre 2026",
+    "nav": "Choisir la langue",
+    "skip": "Aller au contenu",
+    "contents": "Sur cette page",
+    "top": "Retour en haut",
+    "sourcesTitle": "Informations des prestataires",
+    "lead": "Cette politique explique comment l’application Android Rafik Al Mouslim traite vos données et comment fonctionne ce site public de confidentialité.",
+    "sections": [
+      {
+        "id": "local",
+        "title": "Données enregistrées dans l’application",
+        "p": [
+          "Rafik Al Mouslim fonctionne principalement hors ligne. Vos préférences de langue, thème, mode de lecture, tailles de texte et présentation, ainsi que vos favoris, dernière lecture, positions de lecture et progression d’adhkâr, sont enregistrés dans l’espace privé de l’application sur votre appareil.",
+          "L’application ne nécessite pas de compte utilisateur et ne synchronise pas ces informations avec un serveur du développeur. Le développeur ne reçoit pas vos favoris, votre progression, vos recherches ou vos choix de lecture. Ces données locales ne sont pas ajoutées par l’application aux requêtes publicitaires."
+        ]
+      },
+      {
+        "id": "location",
+        "title": "Localisation, prières et qibla",
+        "p": [
+          "Avec votre autorisation Android, l’application peut utiliser votre position précise ou approximative au premier plan afin de configurer les horaires de prière et la qibla. Vous pouvez refuser ou retirer cette autorisation et utiliser les choix de ville proposés par l’application.",
+          "Les coordonnées retenues, le nom de ville, le fuseau horaire et la méthode de calcul sont conservés localement pour les calculs ultérieurs. L’application ne demande pas la localisation en arrière-plan et n’effectue pas de suivi continu.",
+          "Pour obtenir un nom de ville, l’application peut interroger ponctuellement le service de géocodage d’Android. Selon l’appareil, ce service peut transmettre la requête et les coordonnées à son propre fournisseur par Internet, conformément à la politique de ce fournisseur. L’application n’ajoute pas votre position aux requêtes AdMob."
+        ]
+      },
+      {
+        "id": "backup",
+        "title": "Sauvegarde et changement d’appareil",
+        "p": [
+          "La sauvegarde automatique Android, la restauration depuis le cloud et le transfert automatique entre appareils sont désactivés dans la configuration de Rafik Al Mouslim. L’application ne possède pas de service de synchronisation ou de sauvegarde exploité par le développeur.",
+          "Une mise à jour normale conserve les données présentes sur l’appareil. En revanche, effacer le stockage de l’application, la désinstaller ou changer de téléphone supprime ou ne transfère pas automatiquement les préférences, favoris, position et progression. Le développeur ne peut pas les récupérer à distance."
+        ]
+      },
+      {
+        "id": "ads",
+        "title": "Publicités et services Google",
+        "p": [
+          "Rafik Al Mouslim utilise Google AdMob pour afficher des bannières sur certains écrans non consacrés à la lecture religieuse, et Google User Messaging Platform (UMP) pour gérer les choix de confidentialité publicitaire.",
+          "Google indique que son SDK publicitaire collecte et partage automatiquement des données techniques, notamment l’adresse IP pouvant indiquer une zone générale, les interactions avec l’application ou les annonces, des diagnostics et des identifiants d’appareil ou de compte, dont l’identifiant publicitaire lorsqu’il est disponible. Ces données peuvent servir à diffuser et mesurer les annonces, analyser leur fonctionnement et prévenir la fraude.",
+          "UMP traite les informations nécessaires pour présenter et enregistrer vos choix de consentement. Ces traitements Google sont distincts des favoris, de la progression, du contenu religieux et de la position enregistrés localement par l’application. Ils varient selon vos choix, les réglages de l’appareil et la configuration publicitaire."
+        ]
+      },
+      {
+        "id": "choices",
+        "title": "Autorisations et choix",
+        "p": [
+          "Vous pouvez refuser ou retirer la localisation et les notifications dans les paramètres Android. Les rappels de prière sont facultatifs, planifiés localement et peuvent nécessiter l’autorisation spéciale des alarmes exactes. L’application peut les replanifier après un redémarrage ou un changement d’heure lorsque vous les avez activés.",
+          "Lorsqu’un formulaire de consentement est requis, UMP le présente dans l’application. L’option de confidentialité publicitaire permet de revoir les choix proposés lorsqu’elle est requise. Vous pouvez également gérer ou supprimer l’identifiant publicitaire depuis les paramètres Android. Refuser la personnalisation ne signifie pas nécessairement qu’aucune donnée technique ne sera traitée pour les annonces autorisées."
+        ]
+      },
+      {
+        "id": "retention",
+        "title": "Conservation et suppression",
+        "p": [
+          "Les préférences, favoris, progression et données de localisation configurées restent sur votre appareil tant que vous conservez l’application et son stockage. Pour supprimer toutes ces données locales, effacez le stockage de Rafik Al Mouslim dans les paramètres Android ou désinstallez l’application.",
+          "Le développeur ne peut pas consulter, restaurer ni supprimer à distance ces données locales. Google et les autres fournisseurs que vous choisissez appliquent leurs propres durées de conservation et moyens de suppression, décrits dans leurs politiques."
+        ]
+      },
+      {
+        "id": "security",
+        "title": "Protection des données",
+        "p": [
+          "Les données locales sont placées dans l’espace privé de l’application, protégé par les contrôles d’accès d’Android. L’application interdit le trafic HTTP en clair. Les communications nécessaires aux services publicitaires et au géocodage utilisent les mécanismes sécurisés fournis par Android et leurs prestataires.",
+          "Aucune mesure technique ne garantit une sécurité absolue. Protégez l’accès à votre téléphone et installez les mises à jour de sécurité disponibles."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Contact et demandes de confidentialité",
+        "p": [
+          "Pour contacter le développeur de Rafik Al Mouslim au sujet de cette politique ou exercer les droits applicables à votre situation : {{CONTACT}}.",
+          "Si vous nous écrivez, votre adresse e-mail et le contenu de votre message sont traités pour répondre à votre demande et conservés le temps nécessaire à son suivi, sous réserve d’obligations légales. N’envoyez pas de données sensibles sans nécessité."
+        ]
+      },
+      {
+        "id": "website",
+        "title": "Consultation de ce site",
+        "p": [
+          "Cette page est hébergée sur GitHub Pages. Elle n’intègre ni publicité, ni outil de mesure d’audience, ni formulaire, ni script, ni cookie ajouté par le développeur. GitHub reçoit les informations techniques nécessaires à l’hébergement, notamment l’adresse IP et des données d’utilisation, et peut conserver des journaux pour fournir et sécuriser son service. Sa déclaration de confidentialité est liée ci-dessous.",
+          "Les sites externes ouverts depuis cette page appliquent leurs propres politiques."
+        ]
+      },
+      {
+        "id": "changes",
+        "title": "Évolution de cette politique",
+        "p": [
+          "Cette politique sera mise à jour si les fonctionnalités, les SDK ou les traitements de données évoluent. La date affichée en haut identifie la version en vigueur. Les versions française, anglaise et arabe décrivent la même application et les mêmes pratiques."
+        ]
+      }
+    ],
+    "links": [
+      "Confidentialité Google",
+      "Utilisation des données par Google dans les applications partenaires",
+      "Conservation des données Google",
+      "Données collectées par Google Mobile Ads",
+      "Confidentialité GitHub"
+    ]
+  },
+  "en": {
+    "name": "Rafik Al Mouslim",
+    "label": "English",
+    "title": "Privacy policy",
+    "updated": "Updated: 20 September 2026",
+    "nav": "Choose a language",
+    "skip": "Skip to content",
+    "contents": "On this page",
+    "top": "Back to top",
+    "sourcesTitle": "Provider information",
+    "lead": "This policy explains how the Rafik Al Mouslim Android app handles your data and how this public privacy website operates.",
+    "sections": [
+      {
+        "id": "local",
+        "title": "Data stored by the app",
+        "p": [
+          "Rafik Al Mouslim works primarily offline. Your language, theme, reading mode, text size and presentation preferences, together with your favorites, last reading position, reading positions and adhkar progress, are stored in the app’s private space on your device.",
+          "The app does not require a user account and does not synchronize this information with a developer-operated server. The developer does not receive your favorites, progress, searches or reading choices. The app does not add these local data to advertising requests."
+        ]
+      },
+      {
+        "id": "location",
+        "title": "Location, prayer times and qibla",
+        "p": [
+          "With your Android permission, the app can use your precise or approximate foreground location to configure prayer times and qibla. You can deny or revoke this permission and use the city choices provided by the app.",
+          "The selected coordinates, city name, time zone and calculation method are retained locally for later calculations. The app does not request background location and does not continuously track you.",
+          "To obtain a city name, the app may occasionally query Android’s geocoding service. Depending on the device, that service may transmit the request and coordinates to its own provider over the Internet under that provider’s policy. The app does not add your location to AdMob requests."
+        ]
+      },
+      {
+        "id": "backup",
+        "title": "Backup and changing devices",
+        "p": [
+          "Android automatic backup, cloud restore and automatic device-to-device transfer are disabled in the Rafik Al Mouslim configuration. The app has no developer-operated synchronization or backup service.",
+          "A normal app update keeps the data already present on the device. However, clearing the app’s storage, uninstalling it or changing phones deletes or does not automatically transfer preferences, favorites, location and progress. The developer cannot recover them remotely."
+        ]
+      },
+      {
+        "id": "ads",
+        "title": "Advertising and Google services",
+        "p": [
+          "Rafik Al Mouslim uses Google AdMob to show banners on selected screens that are not dedicated to religious reading, and Google User Messaging Platform (UMP) to manage advertising privacy choices.",
+          "Google states that its advertising SDK automatically collects and shares technical data, including the IP address that may indicate a general area, app or ad interactions, diagnostics and device or account identifiers, including the advertising ID when available. These data may be used to deliver and measure ads, analyse their operation and prevent fraud.",
+          "UMP processes the information needed to present and record your consent choices. These Google activities are separate from the favorites, progress, religious content and location stored locally by the app. They vary according to your choices, device settings and advertising configuration."
+        ]
+      },
+      {
+        "id": "choices",
+        "title": "Permissions and choices",
+        "p": [
+          "You can deny or revoke location and notification permissions in Android settings. Prayer reminders are optional, scheduled locally and may require the special exact-alarm permission. The app can reschedule them after a restart or time change when you have enabled them.",
+          "When a consent form is required, UMP presents it in the app. The advertising privacy option lets you revisit the available choices when required. You can also manage or delete the advertising ID in Android settings. Declining personalization does not necessarily stop all technical data processing for permitted ads."
+        ]
+      },
+      {
+        "id": "retention",
+        "title": "Retention and deletion",
+        "p": [
+          "Configured preferences, favorites, progress and location data remain on your device for as long as you keep the app and its storage. To delete all local Rafik Al Mouslim data, clear its storage in Android settings or uninstall the app.",
+          "The developer cannot access, restore or remotely delete these local data. Google and other providers you choose apply their own retention periods and deletion methods, as described in their policies."
+        ]
+      },
+      {
+        "id": "security",
+        "title": "Data protection",
+        "p": [
+          "Local data are stored in the app’s private space, protected by Android access controls. The app blocks cleartext HTTP traffic. Communications required for advertising services and geocoding use the secure mechanisms provided by Android and their service providers.",
+          "No technical measure can guarantee absolute security. Protect access to your phone and install available security updates."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Contact and privacy requests",
+        "p": [
+          "To contact the developer of Rafik Al Mouslim about this policy or exercise rights that apply to your situation, email {{CONTACT}}.",
+          "If you write to us, your email address and message are processed to respond to your request and kept as long as needed to follow it up, subject to legal obligations. Do not send sensitive data unless necessary."
+        ]
+      },
+      {
+        "id": "website",
+        "title": "Visiting this website",
+        "p": [
+          "This page is hosted on GitHub Pages. It contains no ads, audience analytics, forms, scripts or cookies added by the developer. GitHub receives technical information needed to host the site, including IP addresses and usage data, and may keep logs to provide and secure its service. Its privacy statement is linked below.",
+          "External websites opened from this page apply their own policies."
+        ]
+      },
+      {
+        "id": "changes",
+        "title": "Changes to this policy",
+        "p": [
+          "This policy will be updated if features, SDKs or data practices change. The date at the top identifies the current version. The French, English and Arabic versions describe the same app and practices."
+        ]
+      }
+    ],
+    "links": [
+      "Google Privacy Policy",
+      "How Google uses data from partner apps",
+      "Google data retention",
+      "Data collected by Google Mobile Ads",
+      "GitHub Privacy Statement"
+    ]
+  }
+}
